@@ -1,5 +1,5 @@
 ## hey!
-plus web design/java/python sometimes, and other stuff other times.
-🌱 
-what i know how to do atp
+web design/java/python sometimes, and other stuff other times.
+<br>
+what i know how to do atp :arrow_down:
 
