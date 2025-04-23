@@ -1,5 +1,5 @@
 ## hey!
-🌱 webdev, java, python, other things.
-making something out of nothing
-
+plus web design/java/python sometimes, and other stuff other times.
+🌱 
+what i know how to do atp
 
