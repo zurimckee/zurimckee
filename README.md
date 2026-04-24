@@ -4,8 +4,8 @@ currently messing around with...
 - [X] web dev
 - [X] database design
 - [X] python data analytics
-- [ ] react
-- [ ] ts + js
+- [X] react
+- [X] ts + js
 
 
 
