@@ -15,11 +15,11 @@ currently messing around with...
 ![Java](https://img.shields.io/badge/java-333333?style=flat&logo=openjdk)
 ![C++](https://img.shields.io/badge/cplusplus-333333?style=flat&logo=cplusplus)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![React](https://img.shields.io/badge/react-333333?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/html-333333?style=flat&logo=html5)
 
 
 
 --- 
-**take a look at some of my recent projects :arrow_down:**
+**take a look at some of my projects :arrow_down:**
 
