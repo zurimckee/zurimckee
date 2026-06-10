@@ -1,6 +1,7 @@
 # hey i'm zuri!
 ---
 current junior honors computer science student at north carolina a&t state university. 
+<br>
 i am an aspiring software engineer focused on building robust full-stack applications, scalable backend infrastructure, and enterprise ai infrastructure.
 
 - 🛠️ currently: internal ai solutions intern at john deere (designing optimized enterprise tooling and backend protocols)
