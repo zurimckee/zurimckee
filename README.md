@@ -1,23 +1,16 @@
 # hey i'm zuri!
 ---
-currently messing around with...
-- [X] web dev
-- [X] database design
-- [X] python data analytics
-- [X] react
-- [X] ts + js
+current junior honors computer science student at north carolina a&t state university. 
+i am an aspiring software engineer focused on building robust full-stack applications, scalable backend infrastructure, and enterprise ai infrastructure.
 
+- 🛠️ currently: internal ai solutions intern at john deere (designing optimized enterprise tooling and backend protocols)
+- 🎓 past: tech fellow / teaching assistant for codepath 
+- 🔭 core focus: full-stack web development, scalable database design, and client-server api architectures
 
-
-
-## 👩🏽‍💻 tech stack 👩🏽‍💻 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/java-333333?style=flat&logo=openjdk)
-![C++](https://img.shields.io/badge/cplusplus-333333?style=flat&logo=cplusplus)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/html-333333?style=flat&logo=html5)
-
+### 🧰 tech stack & tools
+- **languages:** python, sql, java, c++, typescript, javascript
+- **frameworks & ui:** react, node.js, express, fastmcp, streamlit[cite: 2]
+- **databases & infrastructure:** opensearch, mysql, docker, gemini api, aws[cite: 2]
 
 
 --- 
