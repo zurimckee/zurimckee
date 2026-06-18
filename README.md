@@ -10,8 +10,8 @@ i am an aspiring software engineer focused on building robust full-stack applica
 
 ### 🧰 tech stack & tools
 - **languages:** python, sql, java, c++, typescript, javascript
-- **frameworks & ui:** react, node.js, express, fastmcp, streamlit[cite: 2]
-- **databases & infrastructure:** opensearch, mysql, docker, gemini api, aws[cite: 2]
+- **frameworks & ui:** react, node.js, express, fastmcp, streamlit
+- **databases & infrastructure:** opensearch, mysql, docker, gemini api, aws
 
 
 --- 
