@@ -12,7 +12,7 @@ current junior honors computer science student at north carolina a&t state unive
 - **frameworks & ui:** react, node.js, express, fastmcp, streamlit
 - **databases & infrastructure:** opensearch, mysql, docker, gemini api, aws
 
-### what im working on right now
+### 💻 what im working on right now
 - **@spotipi** music player app bc spotify wants to be greedy
 - **@javamemorygame** making it a web app to call in my portfolio
 - **@zurisite1.5** attempting to integrate react (😵)
