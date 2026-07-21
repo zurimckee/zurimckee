@@ -13,7 +13,7 @@ current junior honors computer science student at north carolina a&t state unive
 - **databases & infrastructure:** opensearch, mysql, docker, gemini api, aws
 
 ### 💻 what im working on right now
-- **@spotipi** music player app bc spotify wants to be greedy
+- **@tuneup** music streaming app bc spotify wants to be greedy
 - **@javamemorygame** making it a web app to call in my portfolio
 - **@zurisite1.5** attempting to integrate react (😵)
 
