@@ -9,8 +9,8 @@ current junior honors computer science student at north carolina a&t state unive
 
 ### 🧰 tech stack & tools
 - **languages:** python, sql, java, c++, typescript, javascript
-- **frameworks & ui:** react, node.js, express, fastmcp, streamlit
-- **databases & infrastructure:** opensearch, mysql, docker, gemini api, aws
+- **frameworks & ui:** react, node.js, express, fastmcp, streamlit, flask
+- **databases & infrastructure:** cloudflare, mysql, railway, opensearch, docker
 
 ### 💻 what im working on right now
 - **@tuneup** music streaming app bc spotify wants to be greedy
