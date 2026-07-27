@@ -5,7 +5,7 @@ current junior honors computer science student at north carolina a&t state unive
 
 - 🛠️ currently: internal ai solutions intern at john deere (designing optimized enterprise tooling and backend protocols)
 - 🎓 past: tech fellow / teaching assistant for codepath 
-- 🔭 core focus: full-stack web development, problem solving & working arounds, making cool stuff
+- 🔭 core focus: full-stack web development, problem solving & work-arounds, making cool stuff
 
 ### 🧰 tech stack & tools
 - **languages:** python, sql, java, c++, typescript, javascript
