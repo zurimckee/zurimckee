@@ -19,5 +19,5 @@
 
 
 --- 
-**take a look at some of my projects :arrow_down:**
+### take a look at some of my projects :arrow_down:
 
