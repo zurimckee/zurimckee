@@ -1,6 +1,6 @@
 # hey i'm zuri!
 ---
-### junior honors computer science student at north carolina a&t state university. 
+### im in my third year and am studying cs at north carolina a&t state university.
 <br>
 
 - 🛠️ currently: internal ai solutions intern at john deere (mcp servers + tooling for ai agents)
