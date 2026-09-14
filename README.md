@@ -1,11 +1,11 @@
 # hey i'm zuri!
 ---
-### i'm in my third year studying cs at north carolina a&t state university.
+### third year comp sci student at north carolina a&t state university.
 <br>
 
-- 🛠️ currently: internal ai solutions intern at john deere (mcp servers + tooling for ai agents)
-- 🎓 past: tech fellow / teaching assistant for codepath 
-- 🔭 core focus: full-stack web development, problem solving & work-arounds, making cool stuff
+- 🛠️ **currently:** tech fellow / teaching assistant for codepath
+- 🎓 **previously:** internal ai solutions intern at john deere (mcp servers + tooling for ai agents)
+- 🔭 **core focus:** full-stack web development, problem solving & work-arounds, making cool stuff
 
 ### 🧰 tech stack & tools
 - **languages:** python, sql, java, c++, typescript, javascript
@@ -13,9 +13,9 @@
 - **databases & infrastructure:** cloudflare, mysql, railway, opensearch, docker
 
 ### 💻 what im working on right now
-- **@tuneup** music streaming app bc spotify wants to be greedy
+- **brainstorming** trying to think of new projects
 - **@javamemorygame** making it a web app to call in my portfolio
-- **@zurisite1.5** attempting to integrate react (😵)
+- **@zurisite1.5** attempting to integrate react (😵) or just make it cooler overall
 
 
 --- 
