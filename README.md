@@ -14,8 +14,9 @@
 
 ### 💻 what im working on right now
 - **brainstorming** trying to think of new projects
+- **@agenticliragproj** researching what rag methods work best on small codebases
 - **@javamemorygame** making it a web app to call in my portfolio
-- **@zurisite1.5** attempting to integrate react (😵) or just make it cooler overall
+- **@zurisite1.5** getting new ideas + refining
 
 
 --- 
