@@ -5,7 +5,7 @@
 
 - 🛠️ **currently:** tech fellow / teaching assistant for codepath
 - 🎓 **previously:** internal ai solutions intern at john deere (mcp servers + tooling for ai agents)
-- 🔭 **core focus:** full-stack web development, problem solving & work-arounds, making cool stuff
+- 🔭 **core focus:** full-stack web development, ai systems, problem solving & work-arounds, making cool stuff
 
 ### 🧰 tech stack & tools
 - **languages:** python, sql, java, c++, typescript, javascript
@@ -13,11 +13,14 @@
 - **databases & infrastructure:** cloudflare, mysql, railway, opensearch, docker
 
 ### 💻 what im working on right now
+- **@plantscan** fine-tuning imagenet model to recognize/diagnose plant health and species
 - **brainstorming** trying to think of new projects
-- **@agenticliragproj** researching what rag methods work best on small codebases
 - **@zurisite1.5** implementing new ideas + refining
 
-
+### 👩🏾‍💻 personal favorites
+- **@agenticliragprog** - research project on rag methods for local coding models
+- **@tuneup** - personal streaming service
+- **@parking-plus-pid** - interactive data management/visualization dashboard for parking management service
+- **@zurisite1.5** - personal portfolio
 --- 
-### take a look at some of my projects :arrow_down:
-
+### take a look + enjoy!
